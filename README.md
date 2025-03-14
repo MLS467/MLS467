@@ -1,73 +1,40 @@
----
+## 👋 Olá! Eu sou o Maisson Leal!
 
-# 👋 Olá! Eu sou o **Maisson Leal**!
-
-🎓 **Graduando em Sistemas para Internet** pelo [Instituto Federal Sul-rio-grandense - IFSUL](https://www.ifsul.edu.br/), Campus Pelotas.  
-
-💻 **Apaixonado por desenvolvimento de software** e sempre em busca de aprender e compartilhar conhecimento. Aqui você encontrará repositórios com projetos acadêmicos, pessoais e de estudos!
+🎓 Graduando em **Sistemas para Internet** pelo Instituto Federal Sul-rio-grandense - IFSUL, Campus Pelotas.  
+💻 Apaixonado por **desenvolvimento web** e sempre em busca de aprender e compartilhar conhecimento.  
+🚀 Trabalhando com **PHP (Laravel), JavaScript (React, Node.js), Python e mais!**
 
 ---
 
-## 🚀 **Tecnologias que utilizo:**
-### **Front-end:**
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-    <img src="https://styled-components.com/logo.png" alt="Styled Components" width="40" height="40"/>
-    <img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="Handlebars.js" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+### 🛠️ Tecnologias e Ferramentas
 
+#### 📌 **Linguagens e Frameworks:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-</p>
-
-### **Back-end:**
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/d1865eb67e9a7175cab0fd3b47508da75dcee4b0460f9043bde1d5af54e0530b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d6f726967696e616c2e737667" alt="Laravel" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-    <!-- Ícone do C -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <!-- Ícone do Java -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <!-- Ícone do MongoDB -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
-
-### **Ferramentas:**
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+#### 🖥️ **Ferramentas e DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-
-## 📈 **Estatísticas:**
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=MLS467&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Stats"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLS467&layout=compact&theme=radical" alt="Most Used Languages"/>
-</div>
+### 📌 Projetos em Destaque
+🔹 **[AtendeBem](https://github.com/MLS467/TCC-Projeto_React)** → Sistema para gestão de pronto-socorro, facilitando triagem e atendimento médico.  
+🔹 **[BackFront Connect](https://github.com/MLS467/BackFront-Connect)** → Aplicação full stack integrando frontend dinâmico com backend robusto.  
+🔹 **[Estrutura de Dados](https://github.com/MLS467/Estrutura_de_Dados)** → Implementação de listas, pilhas, filas, árvores e grafos em C++.  
+🔹 **[Controle de Estoque](https://github.com/MLS467/Controle_de_estoque)** → Sistema simples para gerenciamento de produtos e estoque.
 
 ---
 
-## 📬 **Contato:**
+### 📬 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maisson%20Leal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisson-leal-da-silva-373633288/)  
+✉️ Email: maisson.ifsul@gmail.com  
+🌍 Portfólio: *Em breve!*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maisson-leal-da-silva-373633288/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maisson.ifsul@gmail.com)
-
----
-
-🎯 "Seja a mudança que você quer ver no mundo." — Mahatma Gandhi
-
----
+📌 *"Seja a mudança que você quer ver no mundo." — Mahatma Gandhi*
