@@ -1,8 +1,9 @@
 ## 👋 Olá! Eu sou o Maisson Leal!
 
-🎓 Graduando em **Sistemas para Internet** pelo Instituto Federal Sul-rio-grandense - IFSUL, Campus Pelotas.  
-💻 Apaixonado por **desenvolvimento web** e sempre em busca de aprender e compartilhar conhecimento.  
-🚀 Trabalhando com **PHP (Laravel), JavaScript (React, Node.js), Python e mais!**
+🎓 Graduando em **Sistemas para Internet** pelo Instituto Federal Sul-rio-grandense (IFSUL) – Campus Pelotas.  
+💻 Entusiasta de **desenvolvimento web full stack**, com foco em boas práticas, escalabilidade e código limpo.  
+🚀 Experiência com **PHP (Laravel)**, **JavaScript (React, Node.js)**, **Python**, além de APIs, bancos de dados e testes automatizados.
+
 
 ---
 
