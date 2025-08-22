@@ -65,7 +65,7 @@ Tenho interesse em automações, integração de sistemas, e soluções robustas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maisson%20Leal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisson-leal-da-silva-373633288/)  
 ✉️ **Email:** maisson.ifsul@gmail.com  
-🌐 **Portfólio:** *Em breve*
+🌐 **Portfólio:** (https://portfolio-maisson-leal-da-silva.netlify.app/)
 
 ---
 
